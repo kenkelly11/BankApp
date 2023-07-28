@@ -1,0 +1,9 @@
+C:\Users\kenda\source\repos\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\kenda\source\repos\SGBank\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\kenda\source\repos\SGBank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\kenda\source\repos\SGBank\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\kenda\source\repos\SGBank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\kenda\source\repos\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csproj.AssemblyReference.cache
+C:\Users\kenda\source\repos\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csproj.CopyComplete
+C:\Users\kenda\source\repos\SGBank\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\kenda\source\repos\SGBank\SGBank.Data\obj\Debug\SGBank.Data.pdb
